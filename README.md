@@ -6,11 +6,11 @@ A REACT.js application using the Openweathermap API, Axios, react-plotly.js, rea
 
 ## Live DEMO
 
-https://react-weather-app-seven-tawny.vercel.app/
+👉 https://react-weather-app-seven-tawny.vercel.app/
 
 ![alt text](https://i.ibb.co/nmBdJNJ/screen.jpg)
 
-
+![alt text](https://i.ibb.co/5G0HwcW/screen.gif)
 
 ## Installation
 
@@ -24,4 +24,4 @@ https://react-weather-app-seven-tawny.vercel.app/
 - Last, but not least, type `npm start` to run the app locally.
 
 - To look at the code, just open up the project in your favorite code editor!
-![alt text](https://i.ibb.co/5G0HwcW/screen.gif)
+
