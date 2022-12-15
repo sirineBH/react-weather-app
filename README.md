@@ -6,7 +6,7 @@ A REACT.js application using the Openweathermap API, Axios, react-plotly.js, rea
 
 ## Live DEMO
 
-https://react-movies-poc.netlify.app/
+https://wait-for-the-link
 
 ![alt text](https://i.ibb.co/7VZvChv/screen1.jpg)
 
