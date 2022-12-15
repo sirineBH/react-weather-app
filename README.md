@@ -6,9 +6,11 @@ A REACT.js application using the Openweathermap API, Axios, react-plotly.js, rea
 
 ## Live DEMO
 
-https://wait-for-the-link
+https://react-weather-app-seven-tawny.vercel.app/
 
-![alt text](https://i.ibb.co/7VZvChv/screen1.jpg)
+![alt text](https://i.ibb.co/nmBdJNJ/screen.jpg)
+
+![alt text](https://i.ibb.co/5G0HwcW/screen.gif)
 
 ## Installation
 
